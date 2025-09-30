@@ -1,0 +1,9 @@
+node_modules
+dist
+.env
+.env.*
+prisma/dev.db
+prisma/dev.db-journal
+.DS_Store
+Thumbs.db
+coverage
