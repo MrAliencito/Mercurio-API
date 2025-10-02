@@ -30,3 +30,5 @@ npm run dev
   <img src="https://img.shields.io/badge/Node-%3E%3D18-brightgreen" />
   <img src="https://img.shields.io/badge/License-MIT-blue" />
 </p>
+
+> Nota: este PR fue mergeado sin review (demo YOLO).
