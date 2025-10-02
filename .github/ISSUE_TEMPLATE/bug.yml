@@ -1,0 +1,13 @@
+﻿name: 🐞 Bug
+description: Reporte de bug
+body:
+  - type: textarea
+    attributes:
+      label: Descripción
+      placeholder: ¿Qué pasa y qué esperabas?
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Pasos para reproducir
+      placeholder: 1) ... 2) ...
