@@ -25,3 +25,8 @@ npm run dev
 ```
 - API: http://localhost:4000
 - Docs: http://localhost:4000/docs
+<p align="center">
+  <a href="https://github.com/MrAliencito/Mercurio-API/actions/workflows/ci.yml"><img src="https://github.com/MrAliencito/Mercurio-API/actions/workflows/ci.yml/badge.svg" /></a>
+  <img src="https://img.shields.io/badge/Node-%3E%3D18-brightgreen" />
+  <img src="https://img.shields.io/badge/License-MIT-blue" />
+</p>
