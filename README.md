@@ -32,3 +32,5 @@ npm run dev
 </p>
 
 > Nota: este PR fue mergeado sin review (demo YOLO).
+
+Coautoría: gracias por el aporte!
