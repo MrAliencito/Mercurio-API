@@ -1,1 +1,8 @@
-﻿* @MrAliencito
+﻿# Dueños por defecto
+*       @MrAliencito
+
+# Backend (TypeScript)
+src/*   @MrAliencito
+
+# Workflows de CI
+.github/workflows/* @MrAliencito
